@@ -1,0 +1,6 @@
+{
+  "name": "Netflix Watch Instantly (Beta) - 2006 Edition",
+  "description": "An alternate-history streaming web application representing Netflix Watch Instantly in 2006, featuring Windows Media Player 10 emulation, local queue, and Gemini-powered movie search and help assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
